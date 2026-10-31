@@ -9,6 +9,7 @@ dependencies = [
     "isort>=9.0.2",
     "langchain>=1.4.7",
     "langchain-openai>=1.7.3",
+    "langsmith>=0.14.16",
     "python-dotenv>=1.2.4",
 ]
 
